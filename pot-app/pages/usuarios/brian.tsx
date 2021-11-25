@@ -1,13 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const brian = () => {
-    return (
-        <div>
-            <p>
-                Hola Brian
-            </p>
-        </div>
-    )
-}
+  return (
+    <div>
+      <p>Hola Brian</p>
+    </div>
+  );
+};
 
-export default brian
+export default brian;
